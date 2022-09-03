@@ -7,4 +7,4 @@
 - Java, JRE, JDK
 - New User
 - Directory with User Ownership
-- Tools Required (Maven, Ant)
+- Tools Required (Maven, Ant, Git)
